@@ -1,0 +1,7 @@
+.Plus {
+    height: 24px;
+}
+
+.Plus:hover {
+    cursor: pointer;
+}

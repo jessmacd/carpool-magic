@@ -1,0 +1,11 @@
+.Step {
+    padding-bottom: 10px;
+}
+.StepNumber {
+    font-size: 2.2rem;
+    font-weight: bold;
+    font-family: 'Amatic SC', sans-serif;
+}
+.StepInstructions {
+    font-size: 1.6rem;
+}

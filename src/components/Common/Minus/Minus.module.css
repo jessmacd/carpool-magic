@@ -1,0 +1,8 @@
+.Minus {
+    height: 24px;
+    margin: 2px;
+}
+
+.Minus:hover {
+    cursor: pointer;
+}

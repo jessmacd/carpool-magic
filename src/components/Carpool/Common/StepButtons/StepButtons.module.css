@@ -1,0 +1,15 @@
+.StepButtons {
+    padding: 10px 0px;
+    width: 600px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.StepButtonPrevious {
+    margin-right: 10px;
+}
+
+.StepButtonNext {
+   align-self: flex-end;
+}

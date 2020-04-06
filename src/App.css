@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+
+
+.App-header {
+  background-color: #eeeeee;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(30px + 3vmin);
+  font-weight: bold;
+  color: #333333;
+  font-family: 'Amatic SC', sans-serif;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.App-title {
+  margin-top: 20px;
+}
+
+button {
+  background-color: #4CAF50;
+  color: #ffffff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 17px;
+  font-family: Raleway;
+  cursor: pointer;
+}
+
+input {
+  font-size: inherit;
+  font-family: inherit;
+  padding: 2px 8px;
+}

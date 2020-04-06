@@ -1,0 +1,31 @@
+.CarpoolDay {
+    text-align: left;
+    width: 100%;
+    background-color: #ffffff;
+    margin: 0px 0px 10px 0px;
+}
+
+.CarpoolDayHeader {
+    background-color: #002B4F;
+    color: #dddddd;
+    padding: 4px 10px 0px;
+    height: 30px;
+}
+
+.CarpoolDayName {
+    float:left;
+    margin: 2px;
+}
+
+.CarpoolDayName input {
+    padding: 0px;
+    position: relative;
+    top: -2px;
+}
+.CarpoolDayDetails {
+    padding: 2px 15px;
+}
+
+.RemoveDay {
+    float: right;
+}

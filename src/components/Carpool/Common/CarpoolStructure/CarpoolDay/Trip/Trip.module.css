@@ -1,0 +1,30 @@
+.Trip {
+    border-bottom: 1px dashed #cccccc;
+    min-height: 32px;
+}
+
+.TripSettings {
+    margin-left: 40px;
+    display:inline-block;
+    vertical-align: top;
+    width: 60%;
+}
+
+.TripTime {
+    width: 25%;
+    overflow: hidden;
+    display:inline-block;
+}
+
+.TripSetupMode .TripTime {
+   width: 75%;
+}
+
+.TripSetupMode .TripSettings {
+    width: 10%;
+}
+
+.TripSetupMode input {
+    width: 50%;
+}
+
