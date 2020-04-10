@@ -13,4 +13,5 @@ This works together with the backend application, carpool. Install both for a fu
  - docker-compose up 
 4. -OR- if you have node installed locally:
  - cd carpool-magic
+ - npm install
  - npm start
